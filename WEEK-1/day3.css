@@ -1,0 +1,14 @@
+h2{
+    background-color: lightblue
+    
+}
+body {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 18px;
+    color: darkblue;
+}
+h2 {
+    text-align: center;
+    padding: 20px;
+    margin: 20px;
+}
