@@ -1,0 +1,23 @@
+.container{
+    display: flex;
+    max-width: 800px;
+    margin: auto;
+    border: 1px solid black;
+    padding: 20px;
+}
+.left , .right {
+    flex: 1;
+    padding: 20px;
+border: 1px solid #ccc;
+border-radius: 10px;
+box-shadow: 0 4px 10px;
+}
+.right img {
+    width: 100px;
+    height: 100px; 
+    margin-top: 10px;
+}
+h2{
+    color: #333;
+    padding-bottom: 5px;
+}
