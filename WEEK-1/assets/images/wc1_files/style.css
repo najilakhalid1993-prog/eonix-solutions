@@ -1,0 +1,128 @@
+@font-face {
+  font-family: "icomoon";
+  src: url("https://assets.mamaearth.in/config/fonts/global/globalIcons.woff2")
+      format("woff2"),
+    url("https://assets.mamaearth.in/config/fonts/global/globalIcons.ttf")
+      format("truetype");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+[class^="icon-"],
+[class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: "icomoon" !important;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-Account-a:before {
+  content: "\e800";
+  color: #00aeef;
+}
+.icon-Account:before {
+  content: "\e801";
+}
+.icon-Categories-a:before {
+  content: "\e802";
+  color: #00aeef;
+}
+.icon-Categories:before {
+  content: "\e803";
+}
+.icon-Offers-a:before {
+  content: "\e804";
+  color: #00aeef;
+}
+.icon-Offers:before {
+  content: "\e805";
+}
+.icon-Me-a:before {
+  content: "\e806";
+  color: #00aeef;
+}
+.icon-Me:before {
+  content: "\e807";
+}
+.icon-chevron-down:before {
+  content: "\e808";
+}
+.icon-chevron-left:before {
+  content: "\e809";
+}
+.icon-chevron-right:before {
+  content: "\e80a";
+}
+.icon-chevron-up:before {
+  content: "\e80b";
+}
+.icon-Cross-filled:before {
+  content: "\e80c";
+}
+.icon-Cross:before {
+  content: "\e80d";
+}
+.icon-Left:before {
+  content: "\e80e";
+}
+.icon-Minus:before {
+  content: "\e80f";
+}
+.icon-Plus:before {
+  content: "\e810";
+}
+.icon-Right-tick-1:before {
+  content: "\e811";
+}
+.icon-Right-tick-2:before {
+  content: "\e812";
+}
+.icon-Right:before {
+  content: "\e813";
+}
+.icon-Search:before {
+  content: "\e814";
+}
+.icon-Trash:before {
+  content: "\e815";
+}
+.icon-Shipping:before {
+  content: "\e500";
+}
+.icon-Return:before {
+  content: "\e501";
+}
+.icon-Play:before {
+  content: "\e502";
+}
+.icon-Location:before {
+  content: "\e503";
+}
+.icon-Sort-by:before {
+  content: "\e600";
+}
+.icon-download-app:before {
+  content: "\e601";
+}
+.icon-Like:before {
+  content: "\e400";
+}
+.icon-Like-a:before {
+  content: "\e401";
+  color: #00AEEF;
+}
+.icon-dislike:before {
+  content: "\e402";
+}
+.icon-dislike-a:before {
+  content: "\e403";
+  color: #00AEEF;
+}
